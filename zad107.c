@@ -1,5 +1,6 @@
-//Program treba naci i ispisat neparne elemente matrice. 
+//Program treba naci i ispisat neparne elemente matrice.
 
+#include<stdio.h>
 int main()
 
 {
